@@ -33,5 +33,5 @@ images:
 
 availableSecrets:
   secretManager:
-    - versionName: projects/623401579225/secrets/DB_URL_ATLAS/versions/latest
+    - versionName: projects/958123269337/secrets/mongo/versions/1
       env: 'DB_URL_ATLAS'
